@@ -1,0 +1,318 @@
+{
+	"name": "Streadata.io API Gallery - Signatures",
+	"description": "This is a repository of signatures APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/signatures.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-28",
+	"url": "http://signatures.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "DocuSign",
+			"x-api-slug": "docusign",
+			"description": "Why settle for less? Get the security, mobility, reliability, and ease of use you need to digitally transform your business, with DocuSign eSignature solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/183-docusign.jpg",
+			"humanURL": "http://www.docusign.com",
+			"baseURL": "https:///",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/docusign/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AMEE",
+			"x-api-slug": "amee",
+			"description": "Data driven solutions to strengthen supply chain performance and risk.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg",
+			"humanURL": "https://www.amee.com",
+			"baseURL": "https:///",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/amee/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Vzaar",
+			"x-api-slug": "vzaar",
+			"description": "vzaar is an online video hosting service, which launched in 2007. The site supports video streaming, embedding, sharing, and video storage. Originally targeted at eBay sellers, the service expanded in 2008 and now provides online video services designed for business and other commercial operations.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/523_logo.png",
+			"humanURL": "http://vzaar.com/",
+			"baseURL": "https://vzaar.com//",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/vzaar/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "AssureSign",
+			"x-api-slug": "assuresign",
+			"description": "AssureSign boasts both enterprise and small business solutions, offers a partner program for integration, reseller and referral partners and is the only electronic signature solution to empower all users to create and own their entire signature experie...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/547-assuresign.jpg",
+			"humanURL": "http://www.assuresign.com",
+			"baseURL": "https:///",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/assuresign/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Postmark",
+			"x-api-slug": "postmark",
+			"description": "Trusted by thousands of developers, Postmark is a fast and reliable transactional email service. Send with Postmark to ensure your transactional emails get to the inbox on time, every time.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/638-postmark.jpg",
+			"humanURL": "http://postmarkapp.com",
+			"baseURL": "https://api.postmarkapp.com//",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/postmark/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HelloSign",
+			"x-api-slug": "hellosign",
+			"description": "HelloSign is the worlds leading free eSignature platform. Send and receive electronic signatures securely with our end-user solution or our eSignature API. Soc2 and HIPAA compliant esignatures.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/1422-hellosign.jpg",
+			"humanURL": "https://faq.hellosign.com/hc/en-us/articles/208317867-How-to-Integrate-Slack-and-HelloSign",
+			"baseURL": "https:///",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/hellosign/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PayJunction",
+			"x-api-slug": "payjunction",
+			"description": "PayJunction is a Level 1 PCI Compliant Service Provider that services thousands of businesses in every state in the United States. Since 2000, PayJunction has rapidly become a leading developer and provider of cutting edge merchant technology. PayJunction has also formed strategic alliances with leading financial institutions and technology partners to deliver the most comprehensive services in the industry.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/payjunction-logo.png",
+			"humanURL": "http://payjunction.com/",
+			"baseURL": "https://example.com//",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/payjunction/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PandaDoc",
+			"x-api-slug": "pandadoc",
+			"description": "PandaDoc is a document automation software as a service with built-in electronic signatures, workflow management, a document builder, and CPQ functionality. PandaDoc was developed in the summer of 2013 to solve a need for salespeople and small businesses to close deals faster by gaining insight into their prospects motivations and by allowing electronic signature acceptance.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/pandadoc-logo.png",
+			"humanURL": "https://www.pandadoc.com",
+			"baseURL": "https:///",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/pandadoc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HERE",
+			"x-api-slug": "here",
+			"description": "HERE Technologies enables people, enterprises and cities around the world to harness the power of location and create innovative solutions that make our lives safer and more efficient. We transform information from devices, vehicles, infrastructure and...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/20089-here-maps.jpg",
+			"humanURL": "https://developer.here.com",
+			"baseURL": "https://weather.cit.api.here.com//weather/1.0",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/here/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lykke",
+			"x-api-slug": "lykke",
+			"description": "Lykke is a movement to build one global marketplace that is a level playing field where everyone has access.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg",
+			"humanURL": "https://lykke.com",
+			"baseURL": "https:////",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/lykke/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lisk",
+			"x-api-slug": "lisk",
+			"description": "Lisk makes it easy for developers to build and deploy blockchain applications in JavaScript. Join the leading platform for world-changing dapps.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26631-lisk.jpg",
+			"humanURL": "https://lisk.io",
+			"baseURL": "https:////api",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/lisk/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Steem",
+			"x-api-slug": "steem",
+			"description": "A new way for publishers to monetize their online content and community, based on battle-tested blockchain technology.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26649-steemit.jpg",
+			"humanURL": "http://steemit.com",
+			"baseURL": "https://api.steemjs.com//",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/steem/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Avaza",
+			"x-api-slug": "avaza",
+			"description": "Avaza is a beautiful online software suite with modules for Project Management, Timesheets, Expenses &amp; Invoicing. Access from anywhere, with any device. Avaza is the leading all-in-one software for running client focused businesses. Avaza allows businesses of all sizes to more easily and effectively manage team projects, time tracking, expense reporting, quoting &amp; invoicing. It can be accessed simply via a web browser from anywhere in the world on any device.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28373-avaza.jpg",
+			"humanURL": "https://www.avaza.com",
+			"baseURL": "https:///",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/avaza/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Predix",
+			"x-api-slug": "predix",
+			"description": "Predix (IoT PaaS) helps you develop apps that connect people with industrial machines through analytics and data for better business outcomes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/predix-vector-logo.png",
+			"humanURL": "https://www.predix.io",
+			"baseURL": "https:////v1",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/predix/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "RipaEx",
+			"x-api-slug": "ripaex",
+			"description": "Ripa Exchange is an hybrid-decentralized exchange with a strong focus on lowering the entry level for opening new exchanges and giving crypto traders safe and secure trading partners to operate on a daily basis.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28880-ripaex-io.jpg",
+			"humanURL": "http://www.ripaex.io",
+			"baseURL": "https://api.ripaex.io//",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/ripaex/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Dezrez",
+			"x-api-slug": "dezrez",
+			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
+			"tags": "Signatures",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/dezrez/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Signatures",
+	"include": [
+		{
+			"name": "DocuSign",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/docusign/apis.yaml"
+		},
+		{
+			"name": "AMEE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/amee/apis.yaml"
+		},
+		{
+			"name": "Vzaar",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/vzaar/apis.yaml"
+		},
+		{
+			"name": "AssureSign",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/assuresign/apis.yaml"
+		},
+		{
+			"name": "Postmark",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/postmark/apis.yaml"
+		},
+		{
+			"name": "HelloSign",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/hellosign/apis.yaml"
+		},
+		{
+			"name": "PayJunction",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/payjunction/apis.yaml"
+		},
+		{
+			"name": "PandaDoc",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/pandadoc/apis.yaml"
+		},
+		{
+			"name": "HERE",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/here/apis.yaml"
+		},
+		{
+			"name": "Lykke",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/lykke/apis.yaml"
+		},
+		{
+			"name": "Lisk",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/lisk/apis.yaml"
+		},
+		{
+			"name": "Steem",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/steem/apis.yaml"
+		},
+		{
+			"name": "Avaza",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/avaza/apis.yaml"
+		},
+		{
+			"name": "Predix",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/predix/apis.yaml"
+		},
+		{
+			"name": "RipaEx",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/ripaex/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/dezrez/apis.yaml"
+		}
+	]
+}

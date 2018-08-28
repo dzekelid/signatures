@@ -10,11 +10,50 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "147448"
 tags: Signatures
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/payjunction/apis.md
 specificationVersion: "0.14"
 apis:
+- name: PayJunction API Basic - Post Transactions Signature Capture
+  x-api-slug: transactionstransactionidsignaturecapture-post
+  description: Capture a signature using the scriptel signature capture
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/payjunction-logo.png
+  humanURL: http://payjunction.com/
+  baseURL: https://example.com//
+  tags: Syndication, Commerce, Payments, Pos, Retail, Payments, Target, Credit, Relative
+    Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/payjunction/transactionstransactionidsignaturecapture-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/payjunction/transactionstransactionidsignaturecapture-post-openapi.md
+- name: PayJunction API Basic - Post Transactions Signature Capture
+  x-api-slug: transactionstransactionidsignaturecapture-post
+  description: Capture a signature using the scriptel signature capture
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/payjunction-logo.png
+  humanURL: http://payjunction.com/
+  baseURL: https://example.com//
+  tags: Syndication, Commerce, Payments, Pos, Retail, Payments, Target, Credit, Relative
+    Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/payjunction/transactionstransactionidsignaturecapture-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/payjunction/transactionstransactionidsignaturecapture-post-openapi.md
+- name: PayJunction API Basic - Post Transactions Signature Capture
+  x-api-slug: transactionstransactionidsignaturecapture-post
+  description: Capture a signature using the scriptel signature capture
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/payjunction-logo.png
+  humanURL: http://payjunction.com/
+  baseURL: https://example.com//
+  tags: Syndication, Commerce, Payments, Pos, Retail, Payments, Target, Credit, Relative
+    Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/payjunction/transactionstransactionidsignaturecapture-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/payjunction/transactionstransactionidsignaturecapture-post-openapi.md
 - name: PayJunction API Basic - Post Transactions Signature Capture
   x-api-slug: transactionstransactionidsignaturecapture-post
   description: Capture a signature using the scriptel signature capture

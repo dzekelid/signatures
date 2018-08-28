@@ -6,11 +6,77 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-d
 x-kinRank: "8"
 x-alexaRank: "4769400"
 tags: Signatures
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/amee/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: AMEE Company API - Get Company Signatory
+  x-api-slug: companysignatory-get
+  description: Get company signatory.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg
+  humanURL: https://www.amee.com
+  baseURL: https://api.roaring.io//company/1.0
+  tags: Carbon, Cleantech, Cleanweb, Climate, Environment, Business, Stack Network,
+    SaaS, Technology, Enterprise, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/amee/companysignatory-get-openapi.md
+- name: AMEE Company API - Post Company Signatory
+  x-api-slug: companysignatory-post
+  description: Post company signatory.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg
+  humanURL: https://www.amee.com
+  baseURL: https://api.roaring.io//company/1.0
+  tags: Carbon, Cleantech, Cleanweb, Climate, Environment, Business, Stack Network,
+    SaaS, Technology, Enterprise, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/amee/companysignatory-post-openapi.md
+- name: AMEE Company API - Get Company Signatory
+  x-api-slug: companysignatory-get
+  description: Get company signatory.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg
+  humanURL: https://www.amee.com
+  baseURL: https://api.roaring.io//company/1.0
+  tags: Carbon, Cleantech, Cleanweb, Climate, Environment, Business, Stack Network,
+    SaaS, Technology, Enterprise, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/amee/companysignatory-get-openapi.md
+- name: AMEE Company API - Post Company Signatory
+  x-api-slug: companysignatory-post
+  description: Post company signatory.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg
+  humanURL: https://www.amee.com
+  baseURL: https://api.roaring.io//company/1.0
+  tags: Carbon, Cleantech, Cleanweb, Climate, Environment, Business, Stack Network,
+    SaaS, Technology, Enterprise, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/amee/companysignatory-post-openapi.md
+- name: AMEE Company API - Post Company Signatory
+  x-api-slug: companysignatory-post
+  description: Post company signatory.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg
+  humanURL: https://www.amee.com
+  baseURL: https://api.roaring.io//company/1.0
+  tags: Carbon, Cleantech, Cleanweb, Climate, Environment, Business, Stack Network,
+    SaaS, Technology, Enterprise, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/amee/companysignatory-post-openapi.md
+- name: AMEE Company API - Get Company Signatory
+  x-api-slug: companysignatory-get
+  description: Get company signatory.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/335-amee-developers.jpg
+  humanURL: https://www.amee.com
+  baseURL: https://api.roaring.io//company/1.0
+  tags: Carbon, Cleantech, Cleanweb, Climate, Environment, Business, Stack Network,
+    SaaS, Technology, Enterprise, API Provider, Profiles, General Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/amee/companysignatory-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://amee.api.gallery.streamdata.io

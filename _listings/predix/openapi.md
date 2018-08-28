@@ -1,10 +1,10 @@
----
 swagger: "2.0"
 x-collection-name: Predix
 x-complete: 1
 info:
   title: VIEWS
   version: 1.0.0
+host: thetaray-anomaly-service.run.aws-usw02-pr.ice.predix.io
 basePath: /v1
 schemes:
 - http
@@ -12,4 +12,78 @@ produces:
 - application/json
 consumes:
 - application/json
----
+paths:
+  /v1/proxy/signature:
+    post:
+      summary: Post Proxy Signature
+      description: Post proxy signature.
+      operationId: postV1ProxySignature
+      x-api-path-slug: v1proxysignature-post
+      parameters:
+      - in: header
+        name: Authorization
+        description: token
+      - in: header
+        name: Predix-Zone-Id
+        description: serviceInstanceId
+      - in: body
+        name: request
+        description: request
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Proxy
+      - Signature
+  /v1/proxy/signature/details:
+    post:
+      summary: Post Proxy Signature Details
+      description: Post proxy signature details.
+      operationId: postV1ProxySignatureDetails
+      x-api-path-slug: v1proxysignaturedetails-post
+      parameters:
+      - in: header
+        name: Authorization
+        description: token
+      - in: header
+        name: Predix-Zone-Id
+        description: serviceInstanceId
+      - in: body
+        name: request
+        description: request
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Proxy
+      - Signature
+      - Details
+  /v1/proxy/signature/extension:
+    post:
+      summary: Post Proxy Signature Extension
+      description: Post proxy signature extension.
+      operationId: postV1ProxySignatureExtension
+      x-api-path-slug: v1proxysignatureextension-post
+      parameters:
+      - in: header
+        name: Authorization
+        description: token
+      - in: header
+        name: Predix-Zone-Id
+        description: serviceInstanceId
+      - in: body
+        name: request
+        description: request
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Proxy
+      - Signature
+      - Extension

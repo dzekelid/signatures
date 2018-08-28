@@ -9,11 +9,26 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/5
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Signatures
-created: "2018-08-26"
-modified: "2018-08-26"
+created: "2018-08-28"
+modified: "2018-08-28"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/vzaar/apis.md
 specificationVersion: "0.14"
 apis:
+- name: VZaar API - Get Api Videos Signature
+  x-api-slug: apivideossignature-get
+  description: nnThis API call allows a user to request a GUID and an AWS S3 signature.
+    With these credentials the user will then be able upload a file into vzaar video
+    storage area.nnThe response for this must be parsed and used in the Upload step.
+    The upload will fail if any of these details are incorrect.nn
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/523_logo.png
+  humanURL: http://vzaar.com/
+  baseURL: https://vzaar.com//
+  tags: API United Kingdom, Stack Network, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/vzaar/apivideossignature-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/signatures/master/_listings/vzaar/apivideossignature-get-openapi.md
 - name: VZaar API - Get Api Videos Signature
   x-api-slug: apivideossignature-get
   description: nnThis API call allows a user to request a GUID and an AWS S3 signature.
